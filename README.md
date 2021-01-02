@@ -23,5 +23,5 @@ they again get flipped...
 ![imgg2 matchmaking](https://user-images.githubusercontent.com/55251741/103464230-1c2b6980-4d58-11eb-802e-2bc494e6b3a0.PNG)
 
 
-![img matchmaking](https://user-images.githubusercontent.com/55251741/103464231-1f265a00-4d58-11eb-9b40-ee3ebad98518.PNG)
+
 
